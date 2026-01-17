@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🙋🏻‍♂️ About Me:
 I am a Software Engineering student at Bahria University (BSE) with a passion for solving problems through code. Currently in my 2nd semester, I have built a solid foundation in C# and Web Development.
 
 I enjoy the logic of backend development in Console and WinForm Applications, as well as the creativity of designing responsive websites using HTML, CSS, and JavaScript, and trying to master FrontEnd Development skill using platforms like Figma. I am constantly looking to bridge the gap between academic theory and real-world software solutions.
